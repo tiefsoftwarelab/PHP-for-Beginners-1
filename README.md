@@ -14,17 +14,17 @@ Learn how to install XAMPP and set up VS Code for PHP, write your first PHP scri
 
 Start Learning Now! Don’t forget to LIKE, SHARE & SUBSCRIBE for more web development tutorials! 🎯
 Don't forget to LIKE 👍, SHARE 📢, and SUBSCRIBE 🔥 for daily web development tutorials!
-🔔 Subscribe: https://www.youtube.com/@tiefsoftware...
+🔔 Subscribe: https://www.youtube.com/@tiefsoftwarelab?sub_confirmation=1
 
 💰 JOIN MONTHLY SUBSCRIPTION MEMBERSHIP COMMUNITY.
-Patreon:  https://www.patreon.com/tiefsoftwarel...
-YouTube:  https://www.youtube.com/channel/UCGpd...
-Buy Me Coffee: https://www.buymeacoffee.com/tiefsoft...
+Patreon:  https://www.patreon.com/tiefsoftwarelab/membership
+YouTube:  https://www.youtube.com/channel/UCGpdA6jZMwot-Ot7MIPEYLw/join
+Buy Me Coffee: https://www.buymeacoffee.com/tiefsoftwarelab
 
 🛒 Shop From Our Online Merch!
-Buy Designs:  https://www.patreon.com/tiefsoftwarel...
-Buy A Web:  https://www.buymeacoffee.com/tiefsoft...
-Buy T-shirts:  https://www.youtube.com/@tiefsoftware...
+Buy Designs:  https://www.patreon.com/tiefsoftwarelab/shop
+Buy A Web:  https://www.buymeacoffee.com/tiefsoftwarelab/extras
+Buy T-shirts:  https://www.youtube.com/@tiefsoftwarelab/store
 
 Front-end recommendation course!
 1. Landing Page e-Commerce website:  https://youtu.be/8jTmNWhzR8E
@@ -33,7 +33,7 @@ Front-end recommendation course!
 
 📌 Follow Tief Software Lab for More Updates:
  → Facebook:  https://www.facebook.com/tiefsoftwarelab
- → Instagram:  https://www.instagram.com/tiefsoftwar...
+ → Instagram:  https://www.instagram.com/tiefsoftwarelab
  → Twitter (X):  https://twitter.com/tiefsoftwarelab
 
 Follow My Open Work!
@@ -48,3 +48,5 @@ Download Source Code:
 
 from
 ▱tieflab▰
+
+#PHP #PHPTutorial #LearnPHP #WebDevelopment #CodingForBeginners #php #phptutorial #phpforbeginners #phpcourse #webdevelopment #backend #coding #phpfullcourse #mysql #webdesign #phpbasics #phpdeveloper #learnphp #phpwithmysql #codingtutorial #phpcrud #backenddevelopment
