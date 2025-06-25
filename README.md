@@ -21,8 +21,11 @@ Don't forget to LIKE 👍, SHARE 📢, and SUBSCRIBE 🔥 for daily web developm
 🔔 Subscribe: https://www.youtube.com/@tiefsoftwarelab?sub_confirmation=1
 
 💰 JOIN MONTHLY SUBSCRIPTION MEMBERSHIP COMMUNITY.
-Patreon:  https://www.patreon.com/tiefsoftwarelab/membership
-YouTube:  https://www.youtube.com/channel/UCGpdA6jZMwot-Ot7MIPEYLw/join
+
+Patreon: https://www.patreon.com/tiefsoftwarelab/membership
+
+YouTube: https://www.youtube.com/channel/UCGpdA6jZMwot-Ot7MIPEYLw/join
+
 Buy Me Coffee: https://www.buymeacoffee.com/tiefsoftwarelab
 
 🛒 Shop From Our Online Merch!
