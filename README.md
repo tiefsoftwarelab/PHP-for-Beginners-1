@@ -8,7 +8,11 @@ Learn PHP from Scratch! This beginner-friendly PHP course will teach you everyth
  need to know to start coding in PHP. Whether you're new to web development or 
 looking to enhance your skills, this step-by-step tutorial covers:
 
-Learn how to install XAMPP and set up VS Code for PHP, write your first PHP script, and understand PHP variables and data types. Explore arithmetic and logical operators, the difference between GET and POST methods, and how to handle user input and validate forms. Understand PHP control structures like if statements, loops, and switch cases, and dive into PHP arrays and how they work. Learn to create and use functions, explore PHP sessions and cookies, and connect PHP to a MySQL database using PDO. Build a user registration system and discover the best security practices for PHP development.
+Learn how to install XAMPP and set up VS Code for PHP, write your first PHP script, and understand PHP variables and data types. 
+Explore arithmetic and logical operators, the difference between GET and POST methods, and how to handle user input and validate forms. 
+Understand PHP control structures like if statements, loops, and switch cases, and dive into PHP arrays and how they work. 
+Learn to create and use functions, explore PHP sessions and cookies, and connect PHP to a MySQL database using PDO. 
+Build a user registration system and discover the best security practices for PHP development.
 
 📌 By the end of this tutorial, you’ll be able to write PHP code confidently and create dynamic websites!
 
