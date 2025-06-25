@@ -17,8 +17,8 @@ Build a user registration system and discover the best security practices for PH
 
 📌 By the end of this tutorial, you’ll be able to write PHP code confidently and create dynamic websites!
 
-Start Learning Now! Don’t forget to LIKE, SHARE & SUBSCRIBE for more web development tutorials! 🎯
-Don't forget to LIKE 👍, SHARE 📢, and SUBSCRIBE 🔥 for daily web development tutorials!
+Start Learning Now! Don’t forget to LIKE, SHARE & SUBSCRIBE for more web development tutorials! 
+🎯 Don't forget to LIKE 👍, SHARE 📢, and SUBSCRIBE 🔥 for daily web development tutorials!
 
 🔔 Subscribe: https://www.youtube.com/@tiefsoftwarelab?sub_confirmation=1
 
