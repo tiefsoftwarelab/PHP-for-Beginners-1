@@ -29,25 +29,34 @@ YouTube: https://www.youtube.com/channel/UCGpdA6jZMwot-Ot7MIPEYLw/join
 Buy Me Coffee: https://www.buymeacoffee.com/tiefsoftwarelab
 
 🛒 Shop From Our Online Merch!
+
 Buy Designs:  https://www.patreon.com/tiefsoftwarelab/shop
+
 Buy A Web:  https://www.buymeacoffee.com/tiefsoftwarelab/extras
+
 Buy T-shirts:  https://www.youtube.com/@tiefsoftwarelab/store
 
 Front-end recommendation course!
+
 1. Landing Page e-Commerce website:  https://youtu.be/8jTmNWhzR8E
+
 2. Modern Portfolio Website:  https://youtu.be/50ryiBwsjCE
+
 3. Simple Nokia Website: https://youtu.be/VaFI_syujJ8
 
 📌 Follow Tief Software Lab for More Updates:
- → Facebook:  https://www.facebook.com/tiefsoftwarelab
- → Instagram:  https://www.instagram.com/tiefsoftwarelab
- → Twitter (X):  https://twitter.com/tiefsoftwarelab
+
+→ Facebook:  https://www.facebook.com/tiefsoftwarelab
+
+→ Instagram:  https://www.instagram.com/tiefsoftwarelab
+
+→ Twitter (X):  https://twitter.com/tiefsoftwarelab
 
 Follow My Open Work!
 
  → Dribble:  https://dribbble.com/tiefsoftwarelab
+ 
  → GitHub:  https://github.com/tiefsoftwarelab
- → Discord
 
 Apply for 1-O-1 Course: https://forms.gle/9h6ByG88WicF7GRB7
 
