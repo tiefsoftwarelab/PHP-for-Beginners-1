@@ -1,4 +1,5 @@
 # PHP-for-Beginners-1
+
 📌 Master PHP in 45 Minutes – Complete Beginner's Guide! 🐘🚀
 Want to learn PHP fast and build dynamic websites? This PHP Full Course covers everything 
 from setup to MySQL database connections. By the end, you'll be able to create forms, 
@@ -18,6 +19,7 @@ Build a user registration system and discover the best security practices for PH
 
 Start Learning Now! Don’t forget to LIKE, SHARE & SUBSCRIBE for more web development tutorials! 🎯
 Don't forget to LIKE 👍, SHARE 📢, and SUBSCRIBE 🔥 for daily web development tutorials!
+
 🔔 Subscribe: https://www.youtube.com/@tiefsoftwarelab?sub_confirmation=1
 
 💰 JOIN MONTHLY SUBSCRIPTION MEMBERSHIP COMMUNITY.
@@ -59,8 +61,6 @@ Follow My Open Work!
  → GitHub:  https://github.com/tiefsoftwarelab
 
 Apply for 1-O-1 Course: https://forms.gle/9h6ByG88WicF7GRB7
-
-Download Source Code:
 
 from
 ▱tieflab▰
